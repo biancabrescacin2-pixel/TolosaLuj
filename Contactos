@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Contactanos por WhatsApp - Tolosa Luján</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 40px;
+      text-align: center;
+      background: #f7f7f7;
+    }
+    h2 {
+      margin-bottom: 30px;
+    }
+    .btn {
+      display: block;
+      margin: 15px auto;
+      padding: 15px 20px;
+      font-size: 22px;
+      text-decoration: none;
+      border: 2px solid #25D366;
+      border-radius: 8px;
+      width: 80%;
+      max-width: 350px;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Contactanos por WhatsApp</h2>
+
+  <a class="btn" href="https://wa.me/542323314999" target="_blank">📞 Matías</a>
+  <a class="btn" href="https://wa.me/542323589924" target="_blank">📞 Nicolás</a>
+  <a class="btn" href="https://wa.me/542323675508" target="_blank">📞 Mariano</a>
+
+</body>
+</html>
